@@ -19,6 +19,12 @@ Apps and tools I've built for everyday work. Every download is free, and every a
 | <img src="https://raw.githubusercontent.com/gkaragioul/cast/main/images/thumb.jpg" width="160"> | **RDNA Cast** and **SiliconCast** | A lighter OBS Studio for recording and streaming games, using your graphics card's own encoder | [⬇️ Windows](https://github.com/gkaragioul/cast/releases/latest/download/RDNA-Cast-windows-setup.exe) · [⬇️ Mac](https://github.com/gkaragioul/cast/releases/latest/download/SiliconCast-mac.dmg) | [App page](https://github.com/gkaragioul/cast) |
 | <img src="https://raw.githubusercontent.com/gkaragioul/driftway-media-randomizer/main/images/thumb.jpg" width="160"> | **Driftway Media Randomizer** | Shuffles the photos and videos in any folder, full window, one after another | [⬇️ Windows](https://github.com/gkaragioul/driftway-media-randomizer/releases/latest/download/Driftway-Media-Randomizer-windows-setup.exe) · [⬇️ Mac](https://github.com/gkaragioul/driftway-media-randomizer/releases/latest/download/Driftway-Media-Randomizer-mac.dmg) | [App page](https://github.com/gkaragioul/driftway-media-randomizer) |
 
+## Web apps
+
+| | App | What it does | Download | Details |
+|---|---|---|---|---|
+| <img src="https://raw.githubusercontent.com/gkaragioul/card-scout/main/images/thumb.jpg" width="160"> | **Card Scout** | Scan a Pokémon card with your phone, find it and see what it's worth | [▶️ Open](https://gkaragioul.github.io/card-scout/) | [App page](https://github.com/gkaragioul/card-scout) |
+
 ## Tools for developers
 
 | | App | What it does | Download | Details |
