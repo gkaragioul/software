@@ -25,6 +25,12 @@ Apps and tools I've built for everyday work. Every download is free, and every a
 |---|---|---|---|---|
 | <img src="https://raw.githubusercontent.com/gkaragioul/quorum-debate/main/images/thumb.jpg" width="160"> | **Quorum Debate** | A local AI boardroom: GPT argues, Claude attacks, Gemini judges. Uses your own subscriptions, never API keys | [Get the source](https://github.com/gkaragioul/quorum-debate/releases/latest) · Windows, Mac, Linux | [App page](https://github.com/gkaragioul/quorum-debate) |
 
+## Guides
+
+| | App | What it does | Download | Details |
+|---|---|---|---|---|
+| <img src="https://raw.githubusercontent.com/gkaragioul/career-application-toolkit/main/images/thumb.jpg" width="160"> | **Career Application Toolkit** | Write a CV and cover letter for one job, from evidence you can back up | [Read online](https://gkaragioul.github.io/career-application-toolkit/) | [App page](https://github.com/gkaragioul/career-application-toolkit) |
+
 More apps are being added to this list as each one is published.
 
 ## Licences
