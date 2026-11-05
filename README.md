@@ -19,6 +19,12 @@ Apps and tools I've built for everyday work. Every download is free, and every a
 | <img src="https://raw.githubusercontent.com/gkaragioul/cast/main/images/thumb.jpg" width="160"> | **RDNA Cast** and **SiliconCast** | A lighter OBS Studio for recording and streaming games, using your graphics card's own encoder | [⬇️ Windows](https://github.com/gkaragioul/cast/releases/latest/download/RDNA-Cast-windows-setup.exe) · [⬇️ Mac](https://github.com/gkaragioul/cast/releases/latest/download/SiliconCast-mac.dmg) | [App page](https://github.com/gkaragioul/cast) |
 | <img src="https://raw.githubusercontent.com/gkaragioul/driftway-media-randomizer/main/images/thumb.jpg" width="160"> | **Driftway Media Randomizer** | Shuffles the photos and videos in any folder, full window, one after another | [⬇️ Windows](https://github.com/gkaragioul/driftway-media-randomizer/releases/latest/download/Driftway-Media-Randomizer-windows-setup.exe) · [⬇️ Mac](https://github.com/gkaragioul/driftway-media-randomizer/releases/latest/download/Driftway-Media-Randomizer-mac.dmg) | [App page](https://github.com/gkaragioul/driftway-media-randomizer) |
 
+## Tools for developers
+
+| | App | What it does | Download | Details |
+|---|---|---|---|---|
+| <img src="https://raw.githubusercontent.com/gkaragioul/quorum-debate/main/images/thumb.jpg" width="160"> | **Quorum Debate** | A local AI boardroom: GPT argues, Claude attacks, Gemini judges. Uses your own subscriptions, never API keys | [Get the source](https://github.com/gkaragioul/quorum-debate/releases/latest) · Windows, Mac, Linux | [App page](https://github.com/gkaragioul/quorum-debate) |
+
 More apps are being added to this list as each one is published.
 
 ## Licences
