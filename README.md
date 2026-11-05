@@ -2,10 +2,16 @@
 
 <picture><img src="images/banner.jpg" alt="Software: apps and tools I've built for everyday work" width="100%"></picture>
 
-# Software
+Apps and tools I've built for everyday work. Every download is free, and every app has its own page with the install steps, what it does with your data, and help if something goes wrong.
 
-Apps and tools I've built for everyday work, on the Mac, on Windows and on the web.
+## For Mac and Windows
 
-## The apps
+| | App | What it does | Download | Details |
+|---|---|---|---|---|
+| <img src="https://raw.githubusercontent.com/gkaragioul/cast/main/images/thumb.jpg" width="160"> | **RDNA Cast** and **SiliconCast** | A lighter OBS Studio for recording and streaming games, using your graphics card's own encoder | [⬇️ Windows](https://github.com/gkaragioul/cast/releases/latest/download/RDNA-Cast-windows-setup.exe) · [⬇️ Mac](https://github.com/gkaragioul/cast/releases/latest/download/SiliconCast-mac.dmg) | [App page](https://github.com/gkaragioul/cast) |
 
-The first apps are on their way. Each one will be listed here with what it does, what it runs on and where to get it.
+More apps are being added to this list as each one is published.
+
+## Licences
+
+Most apps are MIT licensed: free to use, change and share. Apps built on someone else's open-source project keep that project's licence. RDNA Cast and SiliconCast, for example, are GPL like OBS Studio. Each app page says which applies.
